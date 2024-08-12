@@ -22,7 +22,3 @@ The project highlighted significant disparities in arthritis prevalence across d
 
 #### **Future Work**
 To further enrich the analysis, future work could involve integrating additional data sources to explore the impact of income levels, education, and gender on arthritis prevalence. Additionally, more advanced statistical methods could be applied to quantify the significance of observed trends and disparities.
-
----
-
-This brief provides a comprehensive overview of your project, showcasing the analytical work and insights derived from the data. Feel free to adjust the content to better fit your style or the specific audience of your portfolio.
